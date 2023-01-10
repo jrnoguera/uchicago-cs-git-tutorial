@@ -1,1 +1,2 @@
-Joshua Noguera
+Joshua Noguera jrnoguera
+UChicago CS Git Tutorial
